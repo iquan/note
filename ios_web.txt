@@ -1,0 +1,1 @@
+http://www.cimgf.com/2009/06/25/uitabbarcontroller-with-uinavigationcontroller-using-interface-builder/ 	在tabcontroller中创建 navigationcontroller 
